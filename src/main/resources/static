@@ -1,0 +1,17 @@
+create table student (id number, first_name varchar2(32), last_name varchar2(32), email varchar2(64));
+
+create sequence STUDENT_ID_SEQ  MINVALUE 1
+  MAXVALUE 9999
+  START WITH 1
+  INCREMENT BY 1
+  CACHE 20;
+  
+  
+  
+  1) Java 1.8
+  2) Spring MVC
+  3) Spring Data
+  4) Hibernate
+  5) Oracle
+  6) Weblogic 12c
+  7) 
